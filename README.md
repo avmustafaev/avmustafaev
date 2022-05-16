@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Aleksandr Mustafaev
-- 🌱 I’m currently learning in SkillFActory
+- 🌱 I’m currently learning in SkillFactory
 
 
 <!---
