@@ -2,6 +2,7 @@
 - 🌱 I’m currently learning in SkillFactory
 - 🌟 I already have two projects:
 - 1️⃣ [Managing Tuya Smart Sockets to restart HiveOS rigs](https://github.com/avmustafaev/Tuya-Smart-Socket-for-Hive-OS)
+- 2️⃣ [The game "Guess the number" for the minimum number of attempts](https://github.com/avmustafaev/guess-number-task)
 
 
 <!---
