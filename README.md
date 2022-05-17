@@ -1,5 +1,7 @@
 - 👋 Hi, I’m Aleksandr Mustafaev
 - 🌱 I’m currently learning in SkillFactory
+- 🌟 I already have two projects:
+- 1️⃣ [Managing Tuya Smart Sockets to restart HiveOS rigs](https://github.com/avmustafaev/Tuya-Smart-Socket-for-Hive-OS)
 
 
 <!---
