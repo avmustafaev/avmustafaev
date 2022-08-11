@@ -3,6 +3,7 @@
 - 🌟 I already have two projects:
 - 1️⃣ [Managing Tuya Smart Sockets to restart HiveOS rigs](https://github.com/avmustafaev/Tuya-Smart-Socket-for-Hive-OS)
 - 2️⃣ [The game "Guess the number" for the minimum number of attempts](https://github.com/avmustafaev/guess-number-task)
+- 3️⃣ [Project 1. Анализ базы данных резюме c Head Hunter](https://github.com/avmustafaev/project1_hh_analize)
 
 
 <!---
